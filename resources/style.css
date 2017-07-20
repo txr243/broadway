@@ -14,8 +14,36 @@ h3 {
     color: white;
 }
 
-.footer {
-    background-color: dimgray;
-    font-size: 11px;
-    color: white;
+.hero h1 {
+  font-size: 70px;
 }
+
+.btn-nav {
+  font-size: 18px;
+  color: white;
+}
+
+.supporting {
+  text-align: center;
+}
+
+.supporting h2 {
+  font-size: 32px;
+}
+
+.supporting h3 {
+  font-size: 23px;
+}
+
+.supporting-item p {
+  font-size: 14px;
+}
+
+.hero h2 {
+  font-size: 23px;
+}
+
+.footer {
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
